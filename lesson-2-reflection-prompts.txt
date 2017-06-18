@@ -23,6 +23,9 @@ Branches give me an option to try out experimental operations on my program with
 
 How do the diagrams help you visualize the branch structure?
 
+Diagrams help us see the branch system showing each commit as node and it’s reference to it’s parent helping us understanding the network in which the branch works out.
+
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
