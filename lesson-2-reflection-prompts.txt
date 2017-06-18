@@ -14,8 +14,12 @@ change?
 
 We can use the diff command to check the changes we have made after the last commit. This can help us ensure that we have a logical change and hence wish to make a new commit.
 
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+Branches give me an option to try out experimental operations on my program without fearing it affecting my main program. I can later on merge it with my original in case my experiment is successful.
+
 
 How do the diagrams help you visualize the branch structure?
 
